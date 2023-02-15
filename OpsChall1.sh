@@ -5,3 +5,6 @@
 # Main
 
 echo "This is my first bash script"
+
+pwd
+whomai
