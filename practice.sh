@@ -8,7 +8,10 @@
 
 # Main
 
-echo "this is working perfectly"
 
+
+myFavVariable=(whoami)
+
+$myFavVariable
 
 # End
